@@ -1,0 +1,28 @@
+- chinese: 今天是星期六。
+  english:
+  - Today is Saturday
+  - Today is Saturday.
+  pinyin: jīntiān shì xīngqīliù
+  type: chinese
+  comment: ! 'Covers: 星期六. Cost: 0.0'
+- chinese: 快换衣服。
+  english:
+  - Hurry up and get dressed.
+  type: chinese
+  comment: ! 'Covers: 换. Cost: 0.0'
+- chinese: 你是不是想坐下？
+  english:
+  - Do you want to sit down?
+  type: chinese
+  comment: ! 'Covers: 坐下. Cost: 0.0'
+- chinese: 快要六点了。
+  english:
+  - It's almost six.
+  type: chinese
+  comment: ! 'Covers: 快要. Cost: 0.0'
+- chinese: 他过去认识她，但他们现在不再是朋友了。
+  english:
+  - He used to know her, but now they are no longer friends.
+  pinyin: tā guòqu rènshi tā dàn tāmen xiànzài bùzài shì péngyou le
+  type: chinese
+  comment: ! 'Covers: 过去. Cost: 0.0'
