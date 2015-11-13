@@ -657,11 +657,6 @@
   - I have done everything I was supposed to do.
   type: chinese
   comment: ! 'Covers: 事情. Cost: 2.741536192390044e-4'
-- chinese: 邮递员每天早上都去送信。
-  english:
-  - The postman delivers letters every morning.
-  type: chinese
-  comment: ! 'Covers: 送信. Cost: 0.29154518950437314'
 - chinese: 他是第一个来的。
   english:
   - He was the first to come.
@@ -695,9 +690,3 @@
   pinyin: tā zhēnshi yī gè hǎo rén
   type: chinese
   comment: ! 'Covers: 真是. Cost: 1.0022922423582734e-4'
-- chinese: 这对孪生子像得使人无法分辨。
-  english:
-  - The twins were so much alike that it was impossible to distinguish one from the
-    other.
-  type: chinese
-  comment: ! 'Covers: 孪生. Cost: 0.1392757660167131'

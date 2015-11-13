@@ -196,11 +196,6 @@
   - Today I feel very tired.
   type: chinese
   comment: ! 'Covers: 觉得. Cost: 0.0'
-- chinese: 今天上午我有一点儿发烧。
-  english:
-  - I had a little fever this morning.
-  type: chinese
-  comment: ! 'Covers: 有一点儿. Cost: 0.1149425287356322'
 - chinese: Ken跟Bill一样高。
   english:
   - Ken is as tall as Bill.
@@ -568,13 +563,3 @@
   - That retired woman is a baby-sitter.
   type: chinese
   comment: ! 'Covers: 保姆. Cost: 5.589714924538848e-2'
-- chinese: 老鼠把一部分干酪啃吃了。
-  english:
-  - The mice have nibbled away part of the cheese.
-  type: chinese
-  comment: ! 'Covers: 啃. Cost: 0.141643059490085'
-- chinese: 她在枪上留下的指纹就是她犯罪的确凿证据.
-  english:
-  - Her fingerprints on the gun were conclusive proof of her guilt.
-  type: chinese
-  comment: ! 'Covers: 指纹. Cost: 0.18050541516245489'

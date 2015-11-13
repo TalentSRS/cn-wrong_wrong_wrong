@@ -19,11 +19,6 @@
   pinyin: tā jìn le jiàoshì
   type: chinese
   comment: ! 'Covers: 进. Cost: 0.0'
-- chinese: 树叶变红了。
-  english:
-  - The tree leaves turned red.
-  type: chinese
-  comment: ! 'Covers: 变红. Cost: 0.2638522427440633'
 - chinese: 一个瓶子
   english:
   - A bottle
