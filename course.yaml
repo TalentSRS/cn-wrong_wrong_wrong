@@ -26,31 +26,23 @@ description: |
   This course covers all of the vocabulary in the 9 chapters.
 
   You can buy the book/ebook here: <http://www.chinesebreeze.net/chinese-breeze/chinese-breeze-level-1/level-1-wrong-wrong-wrong/>
+stencils: cn_story.wrong_wrong_wrong.txt.yaml
 units:
  - title: 1. 有一个小姐死了
    content: chapter.md
-   stencils: cn_story.wrong_wrong_wrong.01.txt.yaml
  - title: 2. 第一个证人的话
    content: chapter.md
-   stencils: cn_story.wrong_wrong_wrong.02.txt.yaml
  - title: 3. 第二个证人的话
    content: chapter.md
-   stencils: cn_story.wrong_wrong_wrong.03.txt.yaml
  - title: 4. 第三个证人的话
    content: chapter.md
-   stencils: cn_story.wrong_wrong_wrong.04.txt.yaml
  - title: 5. 第四个证人的话
    content: chapter.md
-   stencils: cn_story.wrong_wrong_wrong.05.txt.yaml
  - title: 6. 第五个证人的话
    content: chapter.md
-   stencils: cn_story.wrong_wrong_wrong.06.txt.yaml
  - title: 7. 第六个证人的话
    content: chapter.md
-   stencils: cn_story.wrong_wrong_wrong.07.txt.yaml
  - title: 8. 错在哪里
    content: chapter.md
-   stencils: cn_story.wrong_wrong_wrong.08.txt.yaml
  - title: 9. 这个小姐脸不红
    content: chapter.md
-   stencils: cn_story.wrong_wrong_wrong.09.txt.yaml
